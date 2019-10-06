@@ -1,3 +1,4 @@
+/* eslint-disable filenames/match-regex */
 import 'react-native';
 import React from 'react';
 import App from '../App';
